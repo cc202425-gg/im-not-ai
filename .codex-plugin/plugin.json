@@ -1,0 +1,20 @@
+{
+  "name": "humanize-korean",
+  "version": "2.3.2",
+  "description": "Diagnose and revise Korean writing with the Codex humanize-korean skill.",
+  "author": {
+    "name": "epoko77-ai"
+  },
+  "skills": "./codex/skills/",
+  "interface": {
+    "displayName": "Humanize Korean",
+    "shortDescription": "한국어 문체 진단·윤문",
+    "longDescription": "Codex용 한국어 윤문 스킬과 검증 스크립트를 사용합니다.",
+    "developerName": "epoko77-ai",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  }
+}
